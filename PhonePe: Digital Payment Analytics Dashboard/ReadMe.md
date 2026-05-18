@@ -46,26 +46,19 @@ This dashboard was developed to simplify data analysis by presenting payment-rel
 ## Dashboard Preview
 
 ### Home Dashboard
-
-![Home Dashboard](Home-Dashboard.png)
+![Home Dashboard](Home Page.png)
 
 ### Insurance Dashboard
-
-![Insurance Dashboard](Insurance-Dashboard.png)
+![Insurance Dashboard](Service-Insurance.png)
 
 ### Loans Dashboard
-
-![Loans Dashboard](Loans-Dashboard.png)
+![Loans Dashboard](Service- Loan.png)
 
 ### Money Transfer Dashboard
-
-![Money Transfer Dashboard](MoneyTransfer-Dashboard.png)
+![Money Transfer Dashboard](Service- Money Transfer.png)
 
 ### Recharge & Bills Dashboard
-
-![Recharge Dashboard](RechargeBills-Dashboard.png)
-
----
+![Recharge Dashboard](Service- Recharge Bills.png)
 
 ## Conclusion
 
