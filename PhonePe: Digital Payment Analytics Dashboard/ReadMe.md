@@ -43,23 +43,6 @@ This dashboard was developed to simplify data analysis by presenting payment-rel
 
 ---
 
-## Dashboard Preview
-
-### Home Dashboard
-![Home Dashboard](Home Page.png)
-
-### Insurance Dashboard
-![Insurance Dashboard](Service-Insurance.png)
-
-### Loans Dashboard
-![Loans Dashboard](Service- Loan.png)
-
-### Money Transfer Dashboard
-![Money Transfer Dashboard](Service- Money Transfer.png)
-
-### Recharge & Bills Dashboard
-![Recharge Dashboard](Service- Recharge Bills.png)
-
 ## Conclusion
 
 This project demonstrates the use of Power BI for creating interactive business dashboards and improving data presentation through visual analytics. The dashboard was designed with a focus on clarity, consistency, and ease of understanding to support effective analysis of digital payment data.
