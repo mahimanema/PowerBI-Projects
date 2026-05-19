@@ -2,34 +2,42 @@
 
 ## Project Overview
 
-The PhonePe Digital Payment Analytics Dashboard is an interactive Power BI project developed to analyze and visualize digital payment data across multiple service categories, including Insurance, Loans, Money Transfer, and Recharge & Bill Payments.
+The PhonePe Digital Payment Analytics Dashboard is an interactive Power BI project developed to monitor and analyze digital payment transactions across multiple services offered by PhonePe, including Insurance, Loans, Money Transfer, and Recharge & Bill Payments.
 
-The project focuses on transforming raw transactional data into meaningful visual insights through a structured and user-friendly reporting interface. The dashboard enables easy analysis of payment activity, transaction performance, and category-wise trends using interactive charts, KPI cards, filters, and visual reports.
+The primary objective of this project is to track successful and failed transactions, identify the major reasons behind payment failures, and analyze transaction trends across different services. In digital payment platforms, a high number of failed transactions can negatively impact customer trust and user experience, making payment monitoring and failure analysis an important business requirement.
+
+This dashboard transforms raw transactional data into meaningful visual insights through interactive charts, KPI cards, filters, and reports, enabling easier understanding of transaction performance and payment behavior.
 
 ---
 
 ## Business Problem
 
-Digital payment platforms generate large volumes of transactional data, making it difficult to monitor trends and interpret performance efficiently through raw datasets alone.
+Digital payment applications process a large volume of transactions daily. Failed transactions can lead to poor customer experience and reduce trust in the platform, potentially causing users to switch to competing applications.
 
-This dashboard was developed to simplify data analysis by presenting payment-related information in a clear and organized visual format. It helps improve visibility into transaction activities and supports better understanding of service-wise performance and payment trends.
+This project was developed to help monitor payment performance, identify the key reasons for transaction failures, and analyze transaction trends across different services. The dashboard provides a centralized and user-friendly reporting system to improve visibility into transaction activities and support better operational analysis.
 
 ---
 
 ## Key Features
 
 * Interactive multi-page Power BI dashboard
-* Service-wise analysis for:
+* Analysis of successful and failed transactions
+* Failed payment reason analysis
+* Monthly transaction trend analysis
+* Service-wise transaction analysis
+* KPI cards for transaction monitoring
+* Interactive filters and date range selection
+* User-friendly dashboard layout and consistent design theme
+* Navigation buttons for smooth movement between dashboard pages
 
-  * Insurance
-  * Loans
-  * Money Transfer
-  * Recharge & Bill Payments
-* Transaction trend analysis
-* KPI cards and visual reporting
-* Category-wise insights and comparisons
-* Interactive filters and slicers
-* Consistent and user-friendly dashboard design
+---
+
+## Services Covered
+
+* Insurance
+* Loans
+* Money Transfer
+* Recharge & Bill Payments
 
 ---
 
@@ -43,7 +51,16 @@ This dashboard was developed to simplify data analysis by presenting payment-rel
 
 ---
 
+## Key Insights
+
+* Identified major reasons behind failed transactions
+* Compared successful and failed payment trends across services
+* Analyzed monthly transaction patterns
+* Evaluated service-wise transaction performance
+* Improved visibility into digital payment activities through interactive reporting
+
+---
+
 ## Conclusion
 
-This project demonstrates the use of Power BI for creating interactive business dashboards and improving data presentation through visual analytics. The dashboard was designed with a focus on clarity, consistency, and ease of understanding to support effective analysis of digital payment data.
-
+This project demonstrates the use of Power BI for creating interactive business dashboards focused on digital payment analytics. The dashboard was designed to simplify complex transactional data, improve payment monitoring, and provide meaningful insights into transaction performance and payment failures through structured visual reporting.
